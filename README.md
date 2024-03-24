@@ -35,7 +35,7 @@ This project implements a simple chat server and client using sockets and thread
 
 ### Usage:
 1. Start the server by running the `task3_server.py` file.
-2. Start the client by running the `task3_client.py` file. (*must run time in an separate python environment*)
+2. Start the client by running the `task3_client.py` file. (*must run in an separate python environment*)
 3. Follow the instructions to send and receive messages between clients.
 
 ---
