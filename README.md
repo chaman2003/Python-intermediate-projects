@@ -1,6 +1,6 @@
 ---
 
-# OASIS INFOBYTE - PYTHON DEVELOPER INTERNSHIP PROJECTS
+# PYTHON INTERMEDIATE PROJECTS
 
 This repository contains multiple Python projects. Each project addresses different tasks and demonstrates various programming concepts.
 
